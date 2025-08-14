@@ -1,0 +1,2 @@
+from .historial_tiempo import historial_tiempo, agregar_historial_tiempo, mostrar_historial_tiempo
+from .historial_velocidad import historial_velocidad, agregar_historial_velocidad, mostrar_historial_velocidad
